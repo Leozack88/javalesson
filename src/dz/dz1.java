@@ -1,0 +1,14 @@
+package dz;
+
+public class dz1 {
+    public static void main(String[] args) {
+
+        System.out.printf("%25.5s%n", "РУБАИ");            //%20s — центр примерно (можно менять число)
+        System.out.println("Много лет размышлял я над жизнью земной.");
+        System.out.println("Непонятного нет для меня под луной.");
+        System.out.println("Мне известно, что мне ничего не известно!");
+        System.out.println("Вот последняя правда, открытая мной.");
+        System.out.printf("%41s%n", "О. Хайям");         //%50s — автор уходит вправо
+    }
+}
+
